@@ -26,7 +26,3 @@ N/A
 ## License
 
 Please refer to the LICENSE in the repo.
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
